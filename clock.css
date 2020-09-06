@@ -10,7 +10,7 @@ body{
 	border:15px solid black;
 	box-shadow: inset 0px 0px 10px 10px grey;
 	border-radius: 50%;
-	background: url("clock.png");
+	background: url("assets/clock.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
